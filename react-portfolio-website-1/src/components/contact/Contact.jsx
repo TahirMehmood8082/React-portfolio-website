@@ -1,7 +1,6 @@
 import React from 'react'
 import './contact.css'
 
-import React from 'react'
 
 const Contact = () => {
   return (
