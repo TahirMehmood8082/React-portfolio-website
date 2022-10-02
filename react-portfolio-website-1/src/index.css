@@ -18,7 +18,7 @@
   --transition: all 400ms ease;
   --container-width-lg:75%;
   --container-width-md:86%;
-  --container-width-ms:90%;
+  --container-width-sm:90%;
 }
 
 html{
@@ -46,6 +46,9 @@ h1,h2,h3,h4,h5{
 }
 h1{
     font-size: 2.5rem;
+}
+section{
+    margin-top: 8rem;
 }
 section > h2,
 section > h5{
